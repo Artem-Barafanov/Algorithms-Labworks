@@ -1,1 +1,2 @@
 # Algorithms-Labworks
+This is the code of the nearest neighbor method for solving the traveling salesman problem (TSP), and its randomized modification. You can view all the information about this project in the report file.
