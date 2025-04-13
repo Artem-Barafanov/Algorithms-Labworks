@@ -1,1 +1,2 @@
 # Algorithms-Labworks
+This is a simulated annealing algorithm to solve the traveling salesman problem (TSP) with the ability to select hyperparameters (temperature, cooling rate) through the gui. You can view all the information about this project in the report file.
