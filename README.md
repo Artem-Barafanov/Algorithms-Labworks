@@ -1,1 +1,2 @@
 # Algorithms-Labworks
+This is an algorithm for calculating the K-anonymity of a dataset and depersonalizing it using various depersonalization methods. You can view all the information about this project in the report file.
